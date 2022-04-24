@@ -1,0 +1,27 @@
+{
+  "name": "be-interviewee-code-test",
+  "version": "1.0.0",
+  "description": "Your task is to create a simple feature flag API. A feature flag is, according to Wikipedia:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/fantastec/be-interviewee-code-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/fantastec/be-interviewee-code-test/issues"
+  },
+  "homepage": "https://gitlab.com/fantastec/be-interviewee-code-test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
